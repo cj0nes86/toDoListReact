@@ -1,2 +1,2 @@
 # toDoListReact
-First project om
+First project using react
